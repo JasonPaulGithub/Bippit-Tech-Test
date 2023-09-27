@@ -1,4 +1,4 @@
-= supreme-succotash
+= Bippit Tech Test
 
 This task simulates a client retrieving information via REST API from a server.
 Client and server are services belonging to different companies.
